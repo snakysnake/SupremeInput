@@ -1,0 +1,11 @@
+{
+  "name": "supremeinput",
+  "version": "1.0.0",
+  "description": "A small plug and play component for Vue3, which combines Label and Input and Description in a nice way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
